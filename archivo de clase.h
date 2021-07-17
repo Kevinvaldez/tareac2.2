@@ -1,5 +1,5 @@
 
- 
+ // clases objetos 
 
 class persona{
 
@@ -11,7 +11,7 @@ int an,mn,dn;
 public:
 
 
-	
+// kevin valdez ..	
 void datos(){
 	
 			
