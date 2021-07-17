@@ -16,7 +16,7 @@ int  main ()
 	cout<<" colaborador 3 guardar datos txt ._ \n"; 
 	cout<<" colaborador 5 recuperar datos txt y mostrar el principal .-  \n";
 	cout<<"0.- Salir del menu \n";
-        cout<<" Ingrese una opción : "; cin>>op;
+        cout<<" Ingrese una opciÃ³n : "; cin>>op;
 	switch(op){
 		case 1:
 	persona1.datos();
@@ -28,8 +28,8 @@ int  main ()
 	
 		break;
 		case 3:
-	
-	
+       persona1.void ingresar()
+       persona1.void mostrar()
 		break;
 		case 4:
 	
