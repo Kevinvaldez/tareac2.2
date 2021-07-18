@@ -113,7 +113,7 @@ persona{
 
 
 		   }
-		   
+	// Vernaza Cañola Romario Joel 	   
 		   void mostrar()
 		   {
 		   	cout<<"NOMBRE"<<"<\t";
@@ -121,10 +121,17 @@ persona{
 		   	cout<<"PESO"<<"<\t";
 		   	cout<<"ALTURA"<<endl;
 		   	
-		   	cout<<nombre<<"\t";
-		   	cout<<apellido<<"\t";
-		   	cout<<peso<<"\t";
-		   	cout<<altura<<"\t";
+		   	int writeFile () 
+			{
+ 		 ofstream myfile;
+  			myfile.open ("DATOS.txt");
+  			myfile << "Nombre\n";
+ 			myfile << "Apellido\n";
+  			myfile << "Peso\n";
+  			myfile << "Altura\n";
+  			myfile.close();
+  			return 0;
+			}
 
 
 		   }
