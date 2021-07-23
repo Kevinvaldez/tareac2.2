@@ -23,3 +23,9 @@ Participante 3: Mostrar el indice corporal y felicitar si se encuentra bien.
 * En esta funcion se realizo el calculo de la masa corporal de la persona, en donde si el peso es adecuado nos mostrara con un mensaje que esta en buen estado caso contrario saldra que estas gordo o pasado de peso.
 Participante 4: Presentar y guardar los datos en un archivo de text.
 *Para mostrar los datos utilizo la funcion void  y de hay se presento de manera normal los datos con el COUT  y de hay parapresentar y guardar un archivo de texto utilizo la funcion writefile con la libreria de salida ofstream.
+
+// Participante N°4 Vernaza Cañola Romario
+Instalación del programa 
+Requisitos
+*Tener dev c++ instalado en su computador, si tiene un sistema operativo linux abrir un cmd
+para poder descargar el archivo de github en windows o mac, tiene que darle click izquierdo en code y seleccionar la opcion Download zip, en el caso de linux se utlizara el comando git -clone y copiar el siguiente enlace: https://github.com/Kevinvaldez/tareac2.2.git
