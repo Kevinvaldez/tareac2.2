@@ -14,3 +14,12 @@ archivo principal
 #4 ROMARIO VERNAZA CAÑOLA 
 
 #### PRIMERA PARTICIPACION ; INTEGRANTE NUMERO 1 SUBI  LOS ARCHIVOS PARA TRABAJAR CON LOS DEMAS COMPAÑEROS SUBIR EL PRINCIPAL Y CREAR LA CLASE 
+//Participante3  George Charcopa Dayan
+
+*Crear las clases personas , ingreso de variables como privado luego de eso con la funcion void en la parte publica mostrar los datos.
+Participante 2: Calcular la edad  de la persona apartir de la fecha de nacimiento y la fecha actual ingresada.
+*Utilizo la funcion  void detro de esa funcion calculo la variable para demostrar la edad.
+Participante 3: Mostrar el indice corporal y felicitar si se encuentra bien.
+* En esta funcion se realizo el calculo de la masa corporal de la persona, en donde si el peso es adecuado nos mostrara con un mensaje que esta en buen estado caso contrario saldra que estas gordo o pasado de peso.
+Participante 4: Presentar y guardar los datos en un archivo de text.
+*Para mostrar los datos utilizo la funcion void  y de hay se presento de manera normal los datos con el COUT  y de hay parapresentar y guardar un archivo de texto utilizo la funcion writefile con la libreria de salida ofstream.
