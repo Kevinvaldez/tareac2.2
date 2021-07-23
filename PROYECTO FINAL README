@@ -14,6 +14,19 @@ archivo principal
 #4 ROMARIO VERNAZA CAÑOLA 
 
 #### PRIMERA PARTICIPACION ; INTEGRANTE NUMERO 1 SUBI  LOS ARCHIVOS PARA TRABAJAR CON LOS DEMAS COMPAÑEROS SUBIR EL PRINCIPAL Y CREAR LA CLASE 
+
+//Participante2 Valencia Jaen Fernanda
+
+
+ARCHIVOS QUE INTEGRAN EL PROYECTO:
+
+*principal.h;
+las funciones que se utilizaron fueron: cout, case, while, system, cin, int, float, return, breat, it
+
+*clases persona;
+se utilizó ésta clase: fail, exit, close, open, public, if, in, void, eslse
+
+
 //Participante3  George Charcopa Dayan
 
 *Crear las clases personas , ingreso de variables como privado luego de eso con la funcion void en la parte publica mostrar los datos.
